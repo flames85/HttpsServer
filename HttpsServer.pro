@@ -20,3 +20,6 @@ SOURCES += main.cpp \
 
 HEADERS += \
     httpsservercore.h
+
+RESOURCES += \
+    httpsserver.qrc
