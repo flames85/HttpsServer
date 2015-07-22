@@ -3,10 +3,7 @@ qt https server(ssl双向认证)
 
 为便于说明现规定以下文件名称:
 说明|文件
-
-————- | ————-
-
-CA证书|              ca-cert.pem
+CA证书|ca-cert.pem
 
 服务证书|            server-cert.pem
 
