@@ -2,18 +2,21 @@
 qt https server(ssl双向认证)
 
 为便于说明现规定以下文件名称:
+说明|文件
 
-CA证书              ca-cert.pem
+————- | ————-
 
-服务证书            server-cert.pem
+CA证书|              ca-cert.pem
 
-服务密钥            server-cert.key
+服务证书|            server-cert.pem
 
-客户证书            client-cert.pem
+服务密钥 |           server-cert.key
 
-客户私钥            client-cert.key
+客户证书  |          client-cert.pem
 
-浏览器证书          client.p12
+客户私钥   |         client-cert.key
+
+浏览器证书  |        client.p12
 
 
 用qt简单实现了HTTPS服务器:
