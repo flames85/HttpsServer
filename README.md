@@ -3,7 +3,6 @@ qt https server(ssl双向认证)
 
 1. 为便于说明现规定以下文件名称:
 
-
 服务证书|            server-cert.pem
 
 服务密钥 |           server-cert.key
